@@ -19,4 +19,6 @@ const usuarios = [
         altura: 1.86,
         ativo: true
     },
-]
+];
+
+export default usuarios;
